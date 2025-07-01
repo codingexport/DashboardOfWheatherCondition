@@ -24,8 +24,8 @@ This project showcases a dynamic and interactive **Weather Condition Dashboard**
 
 ## 📷 Dashboard Preview
 
-> *(You can upload a screenshot of the dashboard here and embed it below once uploaded to GitHub)*  
-> `![Dashboard Preview](dashboard-preview.png)`
+![image](https://github.com/user-attachments/assets/e0e98d36-4348-4a8b-a92f-cb80f7a5435a)
+
 
 ## 🚀 Getting Started
 
